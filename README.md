@@ -8,35 +8,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+"Sinergia Sonora: Uma Viagem pelos Horizontes de IA, Machine Learning e Dublagem Avatar"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto inovador explora a interseção de Inteligência Artificial (IA), Machine Learning (ML) e dublagem avatar para criar uma experiência audiovisual única. Utilizando o ChatGPT para gerar conteúdo textual, a ElevenLabs transforma esse texto em uma narrativa sonora cativante, enquanto o I-ID dá vida a esse áudio por meio de dublagem realizada por avatares.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+1 - ChatGPT (IA): Gera conteúdo textual inteligente e interativo.
+2 - ElevenLabs (Texto para Voz): Transforma o texto gerado pela IA em uma experiência sonora envolvente.
+3 - I-ID (Dublagem por Avatar): Adiciona uma camada visual única à experiência, transformando o texto em dublagem feita por avatares.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1 - Definição de Conteúdo: Inicia-se com a criação de um roteiro ou texto usando o ChatGPT para garantir uma narrativa coerente.
+2 - Conversão Texto para Voz: A ElevenLabs entra em cena, convertendo o texto em uma narração vívida e expressiva.
+3 - Dublagem por Avatar: O I-ID é utilizado para dar personalidade visual ao áudio, permitindo que avatares deem vida à narrativa de forma envolvente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resulta em uma experiência audiovisual única, combinando inteligência artificial, síntese de voz avançada e tecnologia de dublagem de avatar. Os usuários podem desfrutar de histórias, informações ou entretenimento de uma maneira que transcende os limites tradicionais da produção audiovisual.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O uso conjunto de IAs generativas abre portas para a criação de experiências personalizadas e interativas. No entanto, também traz à tona questões éticas, como a responsabilidade na criação de conteúdo e a necessidade de transparência em relação à origem da informação gerada. O equilíbrio entre a inovação tecnológica e a ética na IA é crucial para moldar um futuro em que essas tecnologias sirvam para o benefício da sociedade. Este projeto destaca a capacidade transformadora da IA quando aplicada de maneira cuidadosa e reflexiva.
 ```
+## Material Gerado
+Audio gerado pela IA Elevenlabs usado a técnica Text to Speech
+<audio src="Diferen%C3%A7as%20entre%20IA%20e%20Machine%20Learrnig-1.mp3" controls title="Title"></audio>
+Vídeo gerado pela IA I-ID utilizando avatar para narrar o mesmo texto que foi criado pela IA Chat GPT 
+<video src="Avatar.mp4" controls title="Avatar"></video>
 
 ### Exemplos e Insigths
 
